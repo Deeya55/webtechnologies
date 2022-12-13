@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kenia&family=Rubik+Vinyl&display=swap');
+h1{
+    background-color: hotpink;
+    font: size 40px; 
+    color: black;
+    font-family: 'Rubik Vinyl', cursive;
+}
+p{
+    background-color: honeydew;
+    font: size 20px;
+    color: lightcoral ;
+    font-family: 'Kenia', cursive;
+}
